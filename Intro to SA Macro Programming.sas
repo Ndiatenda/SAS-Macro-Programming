@@ -7,7 +7,7 @@ data class;
 set sashelp.class;
 run;
 
-/* calc mean age for Males */
+/* calc mean age */
 proc means data=class;
 var age;
 output mean=avg;
