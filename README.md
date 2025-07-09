@@ -1,6 +1,6 @@
 # SAS-Macro-Programming
 
-📌 **SAS MACRO Programming: Theory and a lot of Practice**
+📌 **SAS MACRO Programming - Theory and a lot of Practice**
 
 This repository contains a collection of SAS programs focused on macro programming techniques. It’s designed to serve as a practical learning resource with real, runnable examples that cover foundational to intermediate macro concepts.
 
