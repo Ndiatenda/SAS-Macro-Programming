@@ -42,3 +42,6 @@ The goal of this repository is to provide:
 1. Clone the repository below:
    ```bash
    git clone https://github.com/yourusername/SAS-Macro-Programming.git
+
+## Side Notes
+1. Data sets sit inside libraries
