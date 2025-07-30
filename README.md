@@ -39,7 +39,7 @@ The goal of this repository is to provide:
 
 ## 🚀 How to Use
 
-1. Clone the repository below:
+1. Clone the repository provided below:
    ```bash
    git clone https://github.com/yourusername/SAS-Macro-Programming.git
 
